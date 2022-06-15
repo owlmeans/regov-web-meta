@@ -1,0 +1,29 @@
+{
+  "name": "@owlmeans/regov-web-meta",
+  "version": "0.1.0",
+  "description": "Meta package with dependencies for OwlMeans Re:gov web wallets",
+  "main": "index.js",
+  "repository": "git@github.com:owlmeans/regov-web-meta.git",
+  "author": "Igor Tkachenko <igor.w.tkachenko@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/material": "^5.8.1",
+    "@owlmeans/regov-comm": "^0.2.3",
+    "@owlmeans/regov-ext-comm": "^0.1.9",
+    "@owlmeans/regov-ext-identity": "^0.2.2",
+    "@owlmeans/regov-lib-react": "^0.2.4",
+    "@owlmeans/regov-ssi-core": "^0.6.4",
+    "copy-to-clipboard": "^3.3.1",
+    "did-jwt": "^6.0.0",
+    "file-saver": "^2.0.5",
+    "i18next": "^21.8.0",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "react-dropzone": "^11.7.1",
+    "react-hook-form": "^7.30.0",
+    "react-i18next": "^11.16.9"
+  }
+}
