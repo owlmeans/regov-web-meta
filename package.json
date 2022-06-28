@@ -1,6 +1,6 @@
 {
   "name": "@owlmeans/regov-web-meta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Meta package with dependencies for OwlMeans Re:gov web wallets",
   "main": "index.js",
   "repository": "git@github.com:owlmeans/regov-web-meta.git",
