@@ -1,6 +1,6 @@
 {
   "name": "@owlmeans/regov-web-meta",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Meta package with dependencies for OwlMeans Re:gov web wallets",
   "main": "index.js",
   "repository": "git@github.com:owlmeans/regov-web-meta.git",
@@ -12,7 +12,7 @@
     "@emotion/styled": "^11.8.1",
     "@mui/icons-material": "^5.8.0",
     "@mui/material": "^5.8.1",
-    "@owlmeans/regov-comm": "^0.2.4",
+    "@owlmeans/regov-comm": "^0.2.6",
     "@owlmeans/regov-ext-comm": "^0.1.9",
     "@owlmeans/regov-ext-identity": "^0.2.2",
     "@owlmeans/regov-lib-react": "^0.2.5",
